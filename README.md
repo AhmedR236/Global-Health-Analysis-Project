@@ -7,7 +7,7 @@ This projects provides a detailed breakdown of the steps taken to analyze the da
 Attachments:
 - Python file for exploratory data analysis (EDA), and data cleaning
 - PowerBi dashboard
-- global_health_cleaned.csv (Cleaned dataset)
+
 
 
 ### Objectives:
